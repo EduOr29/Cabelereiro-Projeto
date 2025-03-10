@@ -6,7 +6,7 @@ package Cabelereiro.DTO;
 
 /**
  *
- * @author luizg
+ * @author 
  */
 public class ClientesDTO {
 

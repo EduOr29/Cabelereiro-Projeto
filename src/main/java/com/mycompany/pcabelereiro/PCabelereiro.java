@@ -6,7 +6,7 @@ package com.mycompany.pcabelereiro;
 
 /**
  *
- * @author luizg
+ * @author 
  */
 public class PCabelereiro {
 

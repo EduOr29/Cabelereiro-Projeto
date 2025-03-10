@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author luizg
+ * @author 
  */
 public class LoginController {
 

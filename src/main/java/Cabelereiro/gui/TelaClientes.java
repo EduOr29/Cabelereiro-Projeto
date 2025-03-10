@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author luizg
+ * @author 
  */
 public class TelaClientes extends javax.swing.JFrame {
 
